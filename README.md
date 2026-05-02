@@ -1,0 +1,1 @@
+[![Quality Gate Status](http://localhost:9000/api/project_badges/measure?project=SpringSecutiry&metric=alert_status&token=sqb_74f6d477c877f25648ee5bf6fc0e1b05d7f50134)](http://localhost:9000/dashboard?id=SpringSecutiry)
